@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="A simple memory game">
+    <meta name="keywords" content="HTML, CSS, JavaScript, game, jQuery, memory">
+    <meta name="author" content="Mateusz Pacyna">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164567699-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-164567699-1');
+    </script>
+    
+    <link rel='icon' href='./images/logo.png' type='image/x-icon'>
+    <link rel="manifest" href="./images/manifest.json">
+    <title>Dachshund memory game</title>
+</head>
+<body>
+
+
+
+<div class="main-container">
+
+    <div class="main">
+        <header class="header">
+            <div class="title">
+                <h1>Dachshund memory game</h1>
+                <div class="klikacze">
+                    <button class="back-btn">Back</button>
+                    <img src="images/mute.png" alt="mute" class="mute">
+                </div>
+            </div>
+            
+        </header>
+        <div class="main-menu">
+            <div class="header-main-menu">
+                <h2>
+                    Main Menu
+                </h2>
+            </div>
+            <div class="body-main-menu">
+                <ul>
+                    <li><a href="#" id="new-game-btn">New Game</a></li>
+                    <li><a href="#" id="options-btn">Options</a></li>
+                    <li><a href="#" id="ranking">Ranking</a></li>
+                    <li><a href="#" id="exit-btn">Exit Game</a></li>
+                </ul>
+            </div>
+
+
+        </div>
+        <div class="game">
+            <div class="game-header">
+                <div class="points">
+                    Points: <span class="counter"></span>
+                </div>
+            </div>
+            <div class="game-content">
+                <div class="container">
+
+                </div>
+            </div>
+            <div class="footer">
+            </div>
+        </div>
+
+        <div class="options">
+            <ul class="options-list">
+                <li><strong class="title-options">Difficulty levels</strong></li>
+                <li><a href="#" id="easy">Easy</a></li>
+                <li><a href="#" id="normal">Normal</a></li>
+                <li><a href="#" id="hard">Hard</a></li>
+                <li><strong class="title-options">Other options</strong></li>
+                <li><a href="#" id="set-cats">Set cats</a></li>
+                <li></li>
+            </ul>
+        </div>
+        <div class="ranking">
+            
+        </div>
+
+
+    </div>
+
+    <footer class="footer">
+    </footer>
+
+</div>
+<audio id="audioMenu">
+    <source src="images/menu.mp3" type="audio/mpeg">
+</audio>
+
+<audio id="audioGood">
+    <source src="images/good.mp3" type="audio/mpeg">
+</audio>
+
+<audio id="audioCheck">
+    <source src="images/check.mp3" type="audio/mpeg">
+</audio>
+<script src="https://code.jquery.com/jquery-3.5.0.min.js"></script>
+
+<script type="text/javascript" src="main.js?08d83231e4152c67b1de"></script></body>
+</html>

@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "./static/css/main.8fad5e21.chunk.css",
+    "main.js": "./static/js/main.c87f081f.chunk.js",
+    "main.js.map": "./static/js/main.c87f081f.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.a43d3f6e.js",
+    "runtime-main.js.map": "./static/js/runtime-main.a43d3f6e.js.map",
+    "static/css/2.117ce29f.chunk.css": "./static/css/2.117ce29f.chunk.css",
+    "static/js/2.754cf8aa.chunk.js": "./static/js/2.754cf8aa.chunk.js",
+    "static/js/2.754cf8aa.chunk.js.map": "./static/js/2.754cf8aa.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.156f532558708cdedf04cf92fb723185.js": "./precache-manifest.156f532558708cdedf04cf92fb723185.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.117ce29f.chunk.css.map": "./static/css/2.117ce29f.chunk.css.map",
+    "static/css/main.8fad5e21.chunk.css.map": "./static/css/main.8fad5e21.chunk.css.map",
+    "static/js/2.754cf8aa.chunk.js.LICENSE.txt": "./static/js/2.754cf8aa.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "./static/media/People.6fa36651.jpg",
+    "static/media/Decoration.svg": "./static/media/Decoration.2290784e.svg",
+    "static/media/Facebook.svg": "./static/media/Facebook.df65b6c0.svg",
+    "static/media/Icon-1.svg": "./static/media/Icon-1.91147906.svg",
+    "static/media/Icon-2.svg": "./static/media/Icon-2.db91e33e.svg",
+    "static/media/Icon-3.svg": "./static/media/Icon-3.2cfe9dfe.svg",
+    "static/media/Icon-4.svg": "./static/media/Icon-4.436df0aa.svg",
+    "static/media/Instagram.svg": "./static/media/Instagram.703479fd.svg",
+    "static/media/Signature.svg": "./static/media/Signature.e54cfcfc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a43d3f6e.js",
+    "static/css/2.117ce29f.chunk.css",
+    "static/js/2.754cf8aa.chunk.js",
+    "static/css/main.8fad5e21.chunk.css",
+    "static/js/main.c87f081f.chunk.js"
+  ]
+}
